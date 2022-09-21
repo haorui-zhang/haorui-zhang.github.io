@@ -1,1 +1,1 @@
-WEBSITE: haorui-zhang.github.io
+haorui-zhang.github.io
