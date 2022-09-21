@@ -73,9 +73,9 @@ In this project, we build models that predict short-term volatility for hundreds
 
 
 <br>
-<center><img src="images/optiver.jpeg"/></center>
+<center><img src="images/optiver.jpg"/></center>
 <br>
-<center><img src="images/optiver2.jpeg"/></center>
+<center><img src="images/optiver2.jpg"/></center>
 <br>
 
   
