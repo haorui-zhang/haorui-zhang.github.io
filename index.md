@@ -4,12 +4,9 @@
 
 ### Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data
 
-Our team complete implementation of a multiscale model of tumor regulation with Ordinary Differenial Equation in providing insights of computational studeies in tumorigenesis and oncotherapy 
+Our team developed a novel Bioinformatic Inference and Multiscale Modeling (BIMM) method, employing a multiscale model of tumor regulation in providing insights of computational studeies in tumorigenesis and oncotherapy. Our article had been recently accepted by ([***Computers in Biology and Medicine***] (https://www.sciencedirect.com/science/article/abs/pii/S0010482522007235))
 
-
-and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://github.com/chenm19/BIMM)]
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
