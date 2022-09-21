@@ -1,8 +1,8 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Computational Biology
 
-### CS224n: Natural Language Processing with Deep Learning
+### Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data
 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
