@@ -1,16 +1,17 @@
-title: Haorui Zhang # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am pursing a MS degree in Data Science at Center of Data Science, New York University
+title: <p align="center"> Haorui Zhang  </p>
+logo: "/images/logo.png?raw=true" 
+description:
+ <p align="center">
+  <a href="https://scholar.google.com/citations?user=6M8zqjUAAAAJ&hl=en">Google Scholar</a> |
+  <a href="https://www.linkedin.com/in/haorui-z-980507181/">LinkedIn</a> |
+  <a href="https://github.com/haorui-zhang/">GitHub</a>
+  </p>
+  
+  I am pursing a MS degree in Data Science at Center of Data Science, New York University. I was graduated from Wake Forest University with a double major in Finance and Statistics
   <br><br>
-  I am currently interested in Machine Learning and Computational Biology
+  I am interested in all kinds of topic related to Data Science, historical textual analysis is one of my favorite
   <br><br>
-  <a href="https://www.linkedin.com/in/haorui-z-980507181/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a href="https://scholar.google.com/citations?user=6M8zqjUAAAAJ&hl=en">View My Google Scholar Profile</a> 
-  <br><br>
-  <a href="https://github.com/haorui-zhang/">View My Github Profile</a> 
-  <br><br>
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
