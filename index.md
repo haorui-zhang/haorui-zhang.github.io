@@ -49,14 +49,12 @@ We employed statistical approaches, including kmeansclustering and z-score class
 ---
 
 
-
-
 ## Financial Analytics
 
 <div style="text-align: justify">During my undergraduate degree at Wake Forest, my double major in finance offered me extensive experiences in developing business sense and making data-related decisions
 <br>
 
----
+
 ### Optimization of GMV model using Log-Logistic model
   
 In this project, I cleaned and decoupled the seasonl GMV data to be ingested in the forecasting model, fitting a log-logistic model to predict all future value. I was accurately aware that, the model's parameters could be improved as the GMV for each day varies.  As a result of back testing, the prediction model's accuracy had greatly increased by 21% for the forecast. I subsequently presented my findings in front of the team and the new features were accepted into the official model.
@@ -93,6 +91,7 @@ In this project, we build models that predict short-term volatility for hundreds
 <center><img src="images/optiver2.jpg"/></center>
 <br>
 
+---
   
 ## History and Archeology
 <div style="text-align: justify">Besides Data Science, I also have a great passion for history and archeology. I enjoyed using data science methodologies into field of history to solve unsettled problem.
