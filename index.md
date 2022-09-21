@@ -15,7 +15,7 @@ describe reactions of synthesis, degradation, phosphorylation, and dephosphoryla
 
 **Parameter optimization:** We optimized the model parameters of the ODE system by minimizing the residual error between empirical data and simulated results. Different optimization algorithms are used and compared to find the optimal parameter set.
 
-<center><img src="images/xza_paper.png"/></center>
+<center><img src="images/xza_poster.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
