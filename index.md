@@ -4,7 +4,7 @@
 
 ### Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data
 
-Our team developed a novel Bioinformatic Inference and Multiscale Modeling (BIMM) method, employing a multiscale model of tumor regulation in providing insights of computational studeies in tumorigenesis and oncotherapy. Our article had been recently accepted by ([***Computers in Biology and Medicine***] (https://www.sciencedirect.com/science/article/abs/pii/S0010482522007235))
+Our team developed a novel Bioinformatic Inference and Multiscale Modeling (BIMM) method, employing a multiscale model of tumor regulation in providing insights of computational studeies in tumorigenesis and oncotherapy. Our article had been recently accepted by [[***Computers in Biology and Medicine***] (https://www.sciencedirect.com/science/article/abs/pii/S0010482522007235)]
 
 [![View on GitHub](https://github.com/chenm19/BIMM)]
 
