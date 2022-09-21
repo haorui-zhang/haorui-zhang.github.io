@@ -25,7 +25,6 @@ In this work, we characterized the interaction of AT[N] biomarkers and their pro
 **Major Findings:** 
 Our major findings include (i) tau is a stronger indicator of regional risk compared to amyloid, (ii) temporal lobe exhibits higher vulnerability to AD-related pathologies, (iii) proposed critical brain regions outperform hub nodes in transmitting disease factors across the brain, and (iv) disruption of metabolic balance is the most determinant factor contributing to the initiation and progression of Alzheimer's disease. 
 
-<center><img src="images/paper3-2.png"/></center>
 <center><img src="images/paper3-1.png"/></center>
 
 **Reaction-diffusion model:**
@@ -34,15 +33,9 @@ Our proposed network-guided biochemical model consists of a classic bistable mod
 <center><img src="images/paper3-3.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Statistical Appoarches to Subtype and Subtage Detection in Alzheimers' Disease 
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
+<center><img src="images/paper3-3.png"/></center>
 
 ---
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
