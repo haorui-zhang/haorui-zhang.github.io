@@ -53,13 +53,15 @@ We employed statistical approaches, including kmeansclustering and z-score class
 
 ### Optimization of GMV model using Log-Logistic model
 In this project, I cleaned and decoupled the seasonl GMV data to be ingested in the forecasting model, fitting a log-logistic model to predict all future value. I was accurately aware that, the model's parameters could be improved as the GMV for each day varies.  As a result of back testing, the prediction model's accuracy had greatly increased by 21% for the forecast. I subsequently presented my findings in front of the team and the new features were accepted into the official model.
+  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/skyzhr621/AD_Journal)
 <br>
 <center><img src="images/didi1.png"/></center>
 <br>
 <center><img src="images/didi2.png"/></center>
 <br>
   
-### Top3 in Data competition in business simulation 
+### Data competition in business simulation 
 In this project, our team managed to conduct decision in building a manufacturing genetic testing devices company, Global DNA. We would like to  keep a sustainable competitive advantage and introduce new products in the market in five to eight years to continue to increase our market share.
  Initially, our first product will be sold in America with positioning aimed toward the performance segment. By positioning directly in the performance segment, our company will maintain strong customer satisfaction and market share. This product will match customer demand and importance for speed, accuracy, price, and age. We will steadily increase capacity and automation to meet our changing demand.  As our company grows, we plan to expand into new markets and demographics. Specific product specs will be determined by data from other companies and products in those regions, as well as customer demand.  We will be differentiated from competitors based on a well-rounded approach that will encapsulate both performance and budget segments in global markets at a steady rate, after gaining a steady track record in an initial performance market in the Americas.
 
@@ -70,6 +72,8 @@ In this project, our team managed to conduct decision in building a manufacturin
 ### Kaggle competition Optiver Realized Volatility Prediction  
 Volatility is one of the most prominent terms you’ll hear on any trading floor – and for good reason. In financial markets, volatility captures the amount of fluctuation in prices. High volatility is associated to periods of market turbulence and to large price swings, while low volatility describes more calm and quiet markets.
 In this project, we build models that predict short-term volatility for hundreds of stocks across different sectors. We design our model forecasting volatility over 10-minute periods where we employed EDA, Feature Engineering and Machine Learning Models to evaluated against real market data collected in the three-month evaluation period after training.
+  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/skyzhr621/AD_Journal)
 
 
 <br>
