@@ -1,7 +1,7 @@
-title: <p align="center"> <p style="color:Tomato;"> Haorui Zhang  </p>
+title: <p align="center";style="color:SlateBlue;">  Haorui Zhang  </p>
 logo: "/images/profile.png?raw=true" 
 description:
- <p align="center">
+ <p align="center";style="color:SlateBlue;">
   <a href="https://scholar.google.com/citations?user=6M8zqjUAAAAJ&hl=en">Google Scholar</a> |
   <a href="https://www.linkedin.com/in/haorui-z-980507181/">LinkedIn</a> |
   <a href="https://github.com/haorui-zhang/">GitHub</a>
