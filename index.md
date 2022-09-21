@@ -45,7 +45,7 @@ We employed statistical approaches, including kmeansclustering and z-score class
 <br>
 <center><img src="images/URECA2021.png"/></center>
 <br>
----
+
 
 ## Financial Analytics
 <div style="text-align: justify">During my undergraduate degree at Wake Forest, my double major in finance offered me extensive experiences in developing business sense and making data-related decisions
@@ -77,7 +77,8 @@ In this project, we build models that predict short-term volatility for hundreds
 <br>
 <center><img src="images/optiver2.jpeg"/></center>
 <br>
----
+
+  
 ## History and Archeology
 <div style="text-align: justify">Besides Data Science, I also have a great passion for history and archeology. I enjoyed using data science methodologies into field of history to solve unsettled problem.
 <br>
