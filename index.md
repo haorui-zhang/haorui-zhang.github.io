@@ -51,9 +51,8 @@ We employed statistical approaches, including kmeansclustering and z-score class
 
 ## Financial Analytics
 
-<div style="text-align: justify">During my undergraduate degree at Wake Forest, my double major in finance offered me extensive experiences in developing business sense and making data-related decisions
+During my undergraduate degree at Wake Forest, my double major in finance offered me extensive experiences in developing business sense and making data-related decisions
 <br>
-
 
 ### Optimization of GMV model using Log-Logistic model
   
@@ -94,7 +93,7 @@ In this project, we build models that predict short-term volatility for hundreds
 ---
   
 ## History and Archeology
-<div style="text-align: justify">Besides Data Science, I also have a great passion for history and archeology. I enjoyed using data science methodologies into field of history to solve unsettled problem.
+Besides Data Science, I also have a great passion for history and archeology. I enjoyed using data science methodologies into field of history to solve unsettled problem.
 <br>
 
 ### Interaction and Distances in the Amarna Letters
