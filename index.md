@@ -8,12 +8,12 @@ Our team developed a novel Bioinformatic Inference and Multiscale Modeling (BIMM
 
 [![View on GitHub](https://github.com/chenm19/BIMM)]
 
-**Mathematical Modeling**  Raw A549 cell data was translated into a system of ordinary differential equations (ODEs) based on biochemical rationales to
+**Mathematical Modeling:**  Raw A549 cell data was translated into a system of ordinary differential equations (ODEs) based on biochemical rationales to
 describe reactions of synthesis, degradation, phosphorylation, and dephosphorylation.
 
-**Survival Analysis** Kaplan-Meier (KM) analysis was performed using the “survival” R package (http://cran.rproject.org/web/packages/survival/index.html).Log-rank test was used to test the differences in survival curves.
+**Survival Analysis:** Kaplan-Meier (KM) analysis was performed using the “survival” R package (http://cran.rproject.org/web/packages/survival/index.html) Log-rank test was used to test the differences in survival curves.
 
-**Parameter optimization** We optimized the model parameters of the ODE system by minimizing the residual error between empirical data and simulated results. Different optimization algorithms are used and compared to find the optimal parameter set.
+**Parameter optimization:** We optimized the model parameters of the ODE system by minimizing the residual error between empirical data and simulated results. Different optimization algorithms are used and compared to find the optimal parameter set.
 
 <center><img src="images/xza_paper.png"/></center>
 
