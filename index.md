@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Computational Biology
+## Computational Biology Data Science
 
 ### Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data
 
@@ -35,31 +35,19 @@ Our proposed network-guided biochemical model consists of a classic bistable mod
 ---
 ### Statistical Appoarches to Subtype and Subtage Detection in Alzheimers' Disease 
 
-<center><img src="images/paper3-3.png"/></center>
+We employed statistical approaches, including kmeansclustering and z-score classification, to detect individual subtypes and substages. We transcribe the spread pattern of tau and β- amyloid proteins into numerical value via z-score, where we find optimal cut-offs inside five structural cohorts and convert it into an adjacency matrix which later elicits individual diseases subtypes trajectories among existing stages. We finally compared our result to clinical score and our model offers statistical validity in revealing disease substages.
+
+<center><img src="images/URECA2021.png"/></center>
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+## History and Archeology
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+### Interaction and Distances in the Amarna Letters
 
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+In this project, I employed Python NLP packages to identify a positive relationship between different political entities and characters. I implemented NLTK in cleaning, tokening, and merging over 300 letters, 100 names, and 40 interactions where I subsequently test the hypothesis that greetings can be classified into different level of obsequiousness based on geographical location. 
+
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
-
----
-## Data Science
-
-### Credit Risk Prediction Web App
-
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
-
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
-<br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/hittite.png"/></center>
 <br>
 
 ---
