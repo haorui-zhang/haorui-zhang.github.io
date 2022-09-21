@@ -25,9 +25,13 @@ In this work, we characterized the interaction of AT[N] biomarkers and their pro
 **Major Findings:** 
 Our major findings include (i) tau is a stronger indicator of regional risk compared to amyloid, (ii) temporal lobe exhibits higher vulnerability to AD-related pathologies, (iii) proposed critical brain regions outperform hub nodes in transmitting disease factors across the brain, and (iv) disruption of metabolic balance is the most determinant factor contributing to the initiation and progression of Alzheimer's disease. 
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<center><img src="images/paper3-2.png"/></center>
+<center><img src="images/paper3-1.png"/></center>
 
-<center><img src="images/BERT-classification.png"/></center>
+**Reaction-diffusion model:**
+Our proposed network-guided biochemical model consists of a classic bistable model and network diffusion. This relatively simple model enabled us to investigate the spatiotemporal dynamics of ATN biomarkers in AD by capturing the essence of the underlying mechanism of complex biological phenomena. The pathological network is an integration of ATN reactions and network diffusion. At each brain region, the production (①, ③) and clearance (②, ④) of amyloid and tau proteins are included in the model following zero-order and first-order mass-action kinetics, respectively. 
+
+<center><img src="images/paper3-3.png"/></center>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
