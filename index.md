@@ -8,11 +8,14 @@ Our team developed a novel Bioinformatic Inference and Multiscale Modeling (BIMM
 
 [![View on GitHub](https://github.com/chenm19/BIMM)]
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Mathematical Modeling**  Raw A549 cell data was translated into a system of ordinary differential equations (ODEs) based on biochemical rationales to
+describe reactions of synthesis, degradation, phosphorylation, and dephosphorylation.
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+**Survival Analysis** Kaplan-Meier (KM) analysis was performed using the “survival” R package (http://cran.rproject.org/web/packages/survival/index.html).Log-rank test was used to test the differences in survival curves.
 
-<center><img src="images/nlp.png"/></center>
+**Parameter optimization** We optimized the model parameters of the ODE system by minimizing the residual error between empirical data and simulated results. Different optimization algorithms are used and compared to find the optimal parameter set.
+
+<center><img src="images/xza_paper.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
