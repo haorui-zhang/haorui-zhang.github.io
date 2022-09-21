@@ -59,6 +59,9 @@ In this project, I employed Python NLP packages to identify a positive relations
 <center><img src="images/hittite.png"/></center>
 <br>
 
+<center><img src="images/amarna.png"/></center>
+<br>
+
 ---
 ### Reconstruction of the histroical migration of Yuezhi people
 
