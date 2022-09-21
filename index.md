@@ -90,6 +90,8 @@ In this project, we build models that predict short-term volatility for hundreds
 ### Interaction and Distances in the Amarna Letters
 
 In this project, I employed Python NLP packages to identify a positive relationship between different political entities and characters. I implemented NLTK in cleaning, tokening, and merging over 300 letters, 100 names, and 40 interactions where I subsequently test the hypothesis that greetings can be classified into different level of obsequiousness based on geographical location. 
+  
+ [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/skyzhr621/AD_Journal)
 
 <br>
 <center><img src="images/hittite.png"/></center>
