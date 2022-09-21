@@ -15,7 +15,7 @@ describe reactions of synthesis, degradation, phosphorylation, and dephosphoryla
 
 **Parameter optimization:** We optimized the model parameters of the ODE system by minimizing the residual error between empirical data and simulated results. Different optimization algorithms are used and compared to find the optimal parameter set.
 
-<center><img src="images/xza_poster.png"/></center>
+<center><img src="images/xza.png"/></center>
 
 ---
 ### Uncovering system vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer's Disease
