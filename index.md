@@ -6,8 +6,7 @@
 
 Our team developed a novel Bioinformatic Inference and Multiscale Modeling (BIMM) method, employing a multiscale model of tumor regulation in providing insights of computational studeies in tumorigenesis and oncotherapy. Our article had been recently accepted by [***Computers in Biology and Medicine***](https://www.sciencedirect.com/science/article/abs/pii/S0010482522007235)
 
-[![View on GitHub](https://github.com/chenm19/BIMM)]
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chenm19/BIMM)
 
 **Mathematical Modeling:**  Raw A549 cell data was translated into a system of ordinary differential equations (ODEs) based on biochemical rationales to
 describe reactions of synthesis, degradation, phosphorylation, and dephosphorylation.
@@ -47,6 +46,8 @@ We employed statistical approaches, including kmeansclustering and z-score class
 
 ---
 ## History and Archeology
+<div style="text-align: justify">Besides Data Science, I also have a great passion for history and archeology. I enjoyed using data science methodologies into field of history to solve unsettled problem.
+<br>
 
 ### Interaction and Distances in the Amarna Letters
 
@@ -66,38 +67,13 @@ My paper concerns a nomadic tribe in Central Asia, the Yuezhi, in the mid-second
 <br>
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Lion in Hittite culture --Mursili’s conquest of Babylonia and the return of Marduk
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+Lion is a widespread symbol in the ancient Near East. The royal association of the lion is well attested in numerous metaphors applied to kings in both Sumerian and Akkadian texts as well as their artistic evidence. Away from Mesopotamia, the Hittites also show their traces from the Babylonians as well. In their tradition, lion was not only one of the most important animal metaphors, but was also an approach employed by the kings. This essay aimed to find a way of acting in the early Hittite kings—the Line of the Lions, Hattusili I, Mursili I and Usurpers, Hantili I, Zidanta I, Ammuna I. The conquest of Babylonia appears to be taking much more historical significance in Hittite history. Not only it marked an end of the early Hittite supremacy, but also silently diminished the idea of lions speaking on the behalf of Telipinu.
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/marduk.jpg"/></center>
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
-
----
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
----
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2022 Haorui Zhang. Powered by Jekyll and the Minimal Theme.</center>
