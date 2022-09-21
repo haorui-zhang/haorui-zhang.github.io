@@ -19,9 +19,10 @@ describe reactions of synthesis, degradation, phosphorylation, and dephosphoryla
 <br>
 
 ---
-### Uncovering system vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer's Disease
+### System vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer's Disease
 
 In this work, we characterized the interaction of AT[N] biomarkers and their propagation across brain networks using a novel bistable reaction-diffusion model. We applied our model to large-scale longitudinal neuroimages from the ADNI database and studied the systematic vulnerability and criticality of brains. Our paper was recently under review by [***Neuroimage***](https://arxiv.org/abs/2201.08941).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/skyzhr621/AD_Journal)
 
 **Major Findings:** 
 Our major findings include (i) tau is a stronger indicator of regional risk compared to amyloid, (ii) temporal lobe exhibits higher vulnerability to AD-related pathologies, (iii) proposed critical brain regions outperform hub nodes in transmitting disease factors across the brain, and (iv) disruption of metabolic balance is the most determinant factor contributing to the initiation and progression of Alzheimer's disease. 
