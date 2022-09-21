@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Computational Biology
 
-[Project 1 Title](/sample_page)
+[Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
