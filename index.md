@@ -51,14 +51,13 @@ In this project, I employed Python NLP packages to identify a positive relations
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Reconstruction of the histroical migration of Yuezhi people
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+My paper concerns a nomadic tribe in Central Asia, the Yuezhi, in the mid-second century BC. At this time the Yuezhi were unable to defeat two other nomadic confederations. As a result, the Yuezhi were forced to migrate westward from their original homeland in the Chinese province of Gansu to the Ili valley in modern Kazakistan. Eventually, they migrated all the way to ancient Bactria, the northern part of modern Afghanistan. My purpose is to resolve the date of the Yuezhi’s migration from the Ili valley to Bactria. According to Craig Benjamin, the Yuezhi were expelled from their settlement in the Ili valley by another nomadic confederation, the Wusun, by 131 BC. However, a closer reading of the historical records reveals that there is no evidence to support Benjamin’s dating scheme. My paper was accepted by the [***silk road conference student panel***](https://events.wfu.edu/event/the_silk_roads_from_local_realities_to_global_narratives#.Yyql93bMJPY)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/yuezhi.png"/></center>
 <br>
 
 ---
